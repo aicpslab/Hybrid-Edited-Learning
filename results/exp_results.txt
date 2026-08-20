@@ -1,0 +1,11 @@
+=== LORENZ96 EXPERIMENT ===
+unedited	val=5.266021e-01	rmse50=NaN	rmse200=NaN	learn=34400	n_total=34400	sp=0.0000	time=32.6
+pim	val=4.660771e-05	rmse50=0.3677	rmse200=2.5575	learn=560	n_total=34400	sp=0.9837	time=32.2
+tkm	val=7.911187e-01	rmse50=0.9447	rmse200=0.9447	learn=68800	n_total=132800	sp=0.4819	time=127.5
+pim_tkm	val=2.755722e-05	rmse50=0.0056	rmse200=0.0056	learn=1120	n_total=132800	sp=0.9916	time=127.1
+
+=== CONTROLLED EXPERIMENT ===
+unedited	val=1.849828e+01	rmse=4.375013e+00	learn=132800	n_total=132800	sp=0.0000	time=52.6
+pim	val=1.958998e-04	rmse=1.358514e-02	learn=560	n_total=132800	sp=0.9958	time=52.7
+tkm	val=1.039996e+01	rmse=3.139045e+00	learn=68800	n_total=132800	sp=0.4819	time=52.2
+pim_tkm	val=2.113321e-04	rmse=1.469065e-02	learn=560	n_total=132800	sp=0.9958	time=51.9

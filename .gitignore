@@ -1,0 +1,32 @@
+# ---- OS / editor ----
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ---- MATLAB ----
+*.asv
+*.m~
+*~
+
+# ---- Python (code/tools/plot_matlab_style.py) ----
+__pycache__/
+*.py[cod]
+
+# ---- LaTeX build artifacts ----
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# ---- Stray generated output ----
+# If a script is run from a non-root working directory it may create a nested
+# results/ or fig/ folder next to itself. Those are ignored; the committed
+# deliverables live in the root-level results/ and fig/ folders (kept tracked).
+**/results/
+**/fig/
+!/results/
+!/fig/

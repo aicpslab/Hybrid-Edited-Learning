@@ -1,0 +1,4 @@
+=== lorenz96_experiment ===
+lorenz96_experiment: OK, 325.7 s
+=== oscillator_control ===
+oscillator_control: OK, 94.3 s
